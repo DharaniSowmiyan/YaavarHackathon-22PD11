@@ -2,6 +2,18 @@
 # Image Captioning using VLM (BLIP)
 This project implements an image captioning pipeline using the BLIP (Bootstrapped Language Image Pretraining) model. It supports training, evaluation, and inference on custom datasets with metadata for verifiable and context-aware caption generation.
 
+# why Salesforce/blip-image-captioning-base?
+
+one of the most used and trending models for image captioning.
+
+Pretrained on large image-text datasets, enabling strong captioning out-of-the-box.
+
+Specifically optimized for image captioning with high-quality, natural language outputs.
+
+Lightweight "base" model offers a good trade-off between accuracy and speed.
+
+Easily fine-tunable for domain-specific tasks using Hugging Face Transformers.
+
 # 1.Architecture overview
 ![image](https://github.com/user-attachments/assets/8c1b218d-5512-4205-8bf7-9d3dd30b3ac6)
 
