@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "five vertical bars,upward trending red arrow"
+picture_id: test/images/graph8
+footnote: Null
+below_text: Null
+concise: "Bar graph with upward red arrow trend."
+detailed: "Image of colored bar chart showing increase trend, symbolizing growth, success, or business performance."

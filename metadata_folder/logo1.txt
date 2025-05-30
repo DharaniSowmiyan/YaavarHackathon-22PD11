@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Instagram logo"
+picture_id: train/images/logo1
+footnote: Null
+below_text: Null
+concise: "Instagram logo with colorful gradient design."
+detailed: "Bright logo featuring a square camera icon in pink-orange gradient representing the social media platform Instagram."

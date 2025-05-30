@@ -1,0 +1,8 @@
+section_header: "Line graph"
+above_text: Null
+caption: "Frequency decreases over time"
+picture_id: train\images\graph2.png
+footnote: Null
+below_text: Null
+concise: "Line graph showing trends in frequency data."
+detailed: "Graph depicts changes in frequency values across time or categories using connected data points."

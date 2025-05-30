@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Nike logo"
+picture_id: train/images/logo7
+footnote: Null
+below_text: Null
+concise: "Nike logo with iconic black swoosh symbol."
+detailed: "Famous Nike swoosh logo represents motion and athletic excellence, rooted in Greek mythology and sportswear branding."

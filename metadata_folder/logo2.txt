@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Starbucks logo"
+picture_id: train/images/logo2
+footnote: Null
+below_text: Null
+concise: "Starbucks logo with green mermaid emblem."
+detailed: "Iconic circular green Starbucks logo featuring twin-tailed mermaid, symbolizing coffeehouse brand identity."

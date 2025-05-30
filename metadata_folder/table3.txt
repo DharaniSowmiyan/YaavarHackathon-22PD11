@@ -1,0 +1,8 @@
+section_header: "University Enrollment"
+above_text: "Enrollment numbers by student level (undergraduate/graduate) across campuses."
+caption: "Table 3: Enrollment by Campus and Term (2019–2020)"
+picture_id: train/images/table3
+footnote: "Portland campus has significantly fewer graduate students compared to Eugene."
+below_text: "Enrollment remained stable during Winter and Spring 2020 despite external disruptions."
+concise: "University enrollment by term and campus"
+detailed: "Breaks down enrollment counts by undergraduate and graduate students across Eugene and Portland campuses over three terms."

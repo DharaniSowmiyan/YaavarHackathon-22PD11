@@ -1,0 +1,8 @@
+section_header: "Cocacola"
+above_text: Null
+caption: "Cocacola logo"
+picture_id: test/images/logo6
+footnote: Null
+below_text: Null
+concise: "Coca-Cola logo with flowing red script."
+detailed: "Coca-Cola’s classic cursive font and red branding symbolize refreshment, tradition, and global beverage recognition."

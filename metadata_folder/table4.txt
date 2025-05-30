@@ -1,0 +1,8 @@
+section_header: "Family Stock Holdings"
+above_text: "Trends in direct/indirect stock holdings by family characteristics (1989–1998)."
+caption: "Table 4: Stock Holdings by Income, Age, and Year (Percent and Median Values)"
+picture_id: train/images/table4
+footnote: "= Fewer than 10 observations. Indirect holdings include mutual funds and retirement accounts."
+below_text: "Wealthier families (income ≥$100K) held stocks at higher rates (>80%) and with greater median values."
+concise: "Stock ownership by income and age"
+detailed: "Survey data showing stock holdings, median values, and asset shares across income brackets and age groups from 1989 to 1998."

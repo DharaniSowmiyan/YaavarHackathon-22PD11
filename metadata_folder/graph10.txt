@@ -1,0 +1,8 @@
+section_header: "Atmospheric Science"
+above_text: "Breakdown of Earth's atmospheric gases:"
+caption: "Figure 10: Composition of Air"
+picture_id: val/images/graph10
+footnote: "Values approximate: N₂=78%, O₂=21%, Other=1%"
+below_text: "Nitrogen dominates (∼78%), with oxygen as secondary component (∼21%)."
+concise: "Pie chart showing composition of atmospheric air."
+detailed: "Diagram presents proportions of nitrogen, oxygen, and other gases in air using colored pie slices."

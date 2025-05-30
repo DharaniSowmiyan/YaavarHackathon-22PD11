@@ -1,0 +1,8 @@
+section_header: "Circuit Components Reference"
+above_text: "Standard electrical symbols shown below:"
+caption: "Figure 2: Circuit Component Symbols"
+picture_id: train\images\circuit2.png
+footnote: "IEC 60617 standard symbols"
+below_text: "Includes switches, meters (voltmeter/ammeter), and resistors (fixed/LDR/thermistor)."
+concise: "Common electrical component symbols chart"
+detailed: "Diagram shows standard electrical symbols like switch, battery, resistor, voltmeter, and LDR for circuit schematics."

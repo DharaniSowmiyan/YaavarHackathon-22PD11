@@ -1,0 +1,8 @@
+section_header: "Statistical Analysis"
+above_text: "Frequency distribution of measured values."
+caption: "Figure 3: Frequency Density Histogram (Bins 1-6)"
+picture_id: train\images\graph3.png
+footnote: "Y-axis: Frequency density, X-axis: Bins."
+below_text: "Peak frequency (20) occurs at bin 3. Data shows right-skewed distribution."
+concise: "Histogram of frequency distribution over intervals."
+detailed: "Histogram shows frequency of data falling within specific numerical intervals using vertical bars."

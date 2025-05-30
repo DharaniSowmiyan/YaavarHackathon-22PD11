@@ -1,0 +1,8 @@
+section_header: "Correlation Analysis"
+above_text: "Conceptual diagram of bivariate data:"
+caption: "Figure 6: Scatter Plot (Height vs. Weight)"
+picture_id: train/images/graph6
+footnote: "Theoretical example with 10 data points"
+below_text: "Each point represents one individual's height (Y) and weight (X). Expected positive correlation."
+concise: "Scatter plot showing height versus weight data."
+detailed: "Scatter plot with individual data points showing relationship between height and weight variables."

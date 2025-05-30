@@ -1,0 +1,8 @@
+section_header: "Series Circuit Experiment"
+above_text: "Lab setup for current measurement:"
+caption: "Figure 4: Series Circuit with Ammeter"
+picture_id: train\images\circuit4.png
+footnote: "Ammeter must be connected in series"
+below_text: "Components: Cell → Switch → Resistor → Ammeter → Cell."
+concise: "Voltmeter and ammeter in a circuit"
+detailed: "A circuit with cell, switch, resistor, voltmeter across resistor, and ammeter in series to measure current and voltage."

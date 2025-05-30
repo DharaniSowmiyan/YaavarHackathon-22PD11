@@ -1,0 +1,8 @@
+section_header: "Urban Population Analysis"
+above_text: "Primate cities with >40% of their country’s urban population (2000 vs. 2016)."
+caption: "Table 6: City Population as Proportion of National Urban Population"
+picture_id: train/images/table6
+footnote: "Hong Kong and Singapore are city-states (100% urban concentration)."
+below_text: "Ulaanbaatar (Mongolia) saw the largest increase (+10% share), while Conakry (Guinea) declined."
+concise: "Urban population concentration in cities"
+detailed: "List of countries where over 40% of urban populations live in one large city, with population stats from 2000 and 2016."

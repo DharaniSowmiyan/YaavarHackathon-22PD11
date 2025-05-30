@@ -1,0 +1,8 @@
+section_header: "Fictional Character Database"
+above_text: "Fictional characters with associated locations, regions, and professions."
+caption: "Table 8: Character Profiles"
+picture_id: test/images/table8
+footnote: "Includes cross-genre references (e.g., Spiderman, Robin Hood)."
+below_text: "Central and European regions are overrepresented in this sample."
+concise: "Fictional characters with locations and professions listed."
+detailed: "This table displays fictional characters' full names, their cities, regions, and unique professions like Spiderman and Starship Captain."

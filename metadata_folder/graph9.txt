@@ -1,0 +1,8 @@
+section_header: "Entomology Study"
+above_text: "Field collection results by insect type:"
+caption: "Figure 9: Insect Species Distribution"
+picture_id: val/images/graph9
+footnote: "Data from summer 2024 field survey"
+below_text: "Honey bees (Type A) dominate the collection. Wasps and hornets show similar frequencies."
+concise: "Grouped bar graph of insects collected data."
+detailed: "Bar chart comparing number of insects collected by type and group, labeled with categories."

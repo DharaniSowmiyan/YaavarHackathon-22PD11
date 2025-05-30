@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Michelin logo"
+picture_id: val/images/logo6
+footnote: Null
+below_text: Null
+concise: "Michelin logo with white tire man mascot."
+detailed: "Michelin logo features Bibendum (Michelin Man), representing safety and quality in tires and mobility service

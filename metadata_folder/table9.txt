@@ -1,0 +1,8 @@
+section_header: "Zoning Regulations"
+above_text: "Commercial zoning standards for density, setbacks, and height."
+caption: "Table 9: Commercial Zone Specifications (NB = Neighborhood Business, CB = Community Business)"
+picture_id: test/images/table9
+footnote: "(1) Density units per acre; (7) Base height with potential exceptions."
+below_text: "Office zones (O) allow greater height (45–60 ft) compared to NB/CB (35–60 ft)."
+concise: "Zoning standards for three commercial business zones."
+detailed: "The table outlines density, setbacks, and height standards for Neighborhood Business, Community Business, and Office zones in detail."

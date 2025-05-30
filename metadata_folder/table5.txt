@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Histogram of Score Probabilities"
+picture_id: #/pictures/graph5
+footnote: "Y-axis: Probability, X-axis: Score (0-50)."
+below_text: "Distribution shows decreasing probability as scores increase, with peak probability around lower score values."
+concise: "U.S. border patrol sector statistics"
+detailed: "Fiscal year 2017 data showing agent staffing, apprehensions, prosecutions, rescues, and deaths across U.S. border sectors."

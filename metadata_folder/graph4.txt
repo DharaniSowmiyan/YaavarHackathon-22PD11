@@ -1,0 +1,8 @@
+section_header: "Piechart graph"
+above_text: Null
+caption: "Piechart with partitions"
+picture_id: train\images\graph4.png
+footnote: Null
+below_text: Null
+concise: "Pie chart representing proportion of categories."
+detailed: "Circular chart divided into slices representing relative percentage of different components in a dataset."

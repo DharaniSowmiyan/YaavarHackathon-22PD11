@@ -1,0 +1,8 @@
+section_header:"Counter circuit" 
+above_text: Null
+caption: "Joining of osillatory circuit and counter circuit"
+picture_id: val/images/circuit9
+footnote: Null
+below_text: Null 
+concise: "Oscillator and counter LED circuit"
+detailed: "A digital circuit using 555 timer and 4017 IC to create a sequence counter driving LEDs in parallel."

@@ -1,0 +1,8 @@
+section_header: "Invoice Line Items"
+above_text: "Itemized purchase details with codes, quantities, and discounted prices."
+caption: "Table 10: Purchase Order with Discounts Applied"
+picture_id: val/images/table10
+footnote: "Uniform 46% discount applied across all items."
+below_text: "Highest-cost item ('PAUSANIA LED T') totals €1,038.42 after discount."
+concise: "Product order list with pricing and discounts."
+detailed: "This product table includes item codes, descriptions, quantities, unit prices, discounts, and calculated amounts for lighting products ordered."

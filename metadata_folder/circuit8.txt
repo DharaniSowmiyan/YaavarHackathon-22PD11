@@ -1,0 +1,8 @@
+section_header: "Circuit Drawing Fundamentals"
+above_text: "Hand-drawn basic circuit components:"
+caption: "Figure 8: Basic Circuit Elements"
+picture_id: test/images/circuit8
+footnote: "IEC symbol conventions followed"
+below_text: "Includes battery, resistor (light bulb), conductor, and switch."
+concise: "Light bulb circuit with charge direction"
+detailed: "Shows a basic bulb circuit diagram with battery, switch, and labels for charge direction and resistor behavior."

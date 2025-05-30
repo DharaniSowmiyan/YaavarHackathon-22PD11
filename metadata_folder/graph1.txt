@@ -1,0 +1,8 @@
+section_header: "Bargraphs"
+above_text: Null
+caption: "Frequency of items demonstrated"
+picture_id: train\images\graph1.png
+footnote: Null
+below_text: Null
+concise: "Bar graph displaying frequency data distribution."
+detailed: "Color-coded bar graph showing how frequently each numerical category appears in a dataset."

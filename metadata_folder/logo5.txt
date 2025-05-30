@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Wikipedia logo"
+picture_id: train/images/logo5
+footnote: Null
+below_text: Null
+concise: "Target logo with red circle and dot."
+detailed: "Bold red logo of Target, a retail chain, showing concentric circles symbolizing precision and brand identity."

@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Mastercard logo"
+picture_id: train/images/logo4
+footnote: Null
+below_text: Null
+concise: "Mastercard logo with intersecting colored circles."
+detailed: "Logo of Mastercard showing red and orange intersecting circles, indicating global credit card provider."

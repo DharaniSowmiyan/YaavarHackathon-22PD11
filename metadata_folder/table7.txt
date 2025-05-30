@@ -1,0 +1,8 @@
+section_header: "Accessibility Study"
+above_text: "Ballot completion results by disability category, including accuracy and participation."
+caption: "Table 7: Voting Accessibility by Disability Type"
+picture_id: train/images/table7
+footnote: "Blind participants had the lowest completion rate (1/5) and accuracy (34.5%)."
+below_text: "Mobility-impaired participants achieved 100% completion and high accuracy (95.4%)."
+concise: "Voting accessibility by disability type"
+detailed: "Displays data on ballot completion, accuracy, and time taken by participants with different disabilities in a voting study."

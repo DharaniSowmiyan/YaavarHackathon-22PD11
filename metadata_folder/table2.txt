@@ -1,0 +1,8 @@
+section_header: "Sales Performance"
+above_text: "Annual sales figures (in thousands) by salesperson from 2017 to 2020."
+caption: "Table 2: Sales Figures by Year and Salesperson"
+picture_id: train/images/table2
+footnote: "Gerald’s sales dropped significantly in 2018 but recovered by 2020."
+below_text: "Susan and Art consistently outperformed others, while Keisha showed growth after 2017."
+concise: "Annual sales data by salesperson"
+detailed: "Displays yearly sales figures (in thousands) for Susan, Gerald, Bobbie, Keisha, and Art from 2017 to 2020."

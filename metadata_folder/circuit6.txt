@@ -1,0 +1,8 @@
+section_header: "Circuit Measurement Setup"
+above_text: "Experimental current measurement setup:"
+caption: "Figure 6: Resistor-Switch Circuit with Ammeter"
+picture_id: train\images\circuit6.png
+footnote: "Note: 'Sharmaine' appears to be a label"
+below_text: "Ammeter measures current through 60Ω resistor when switch is closed."
+concise: "Named circuit with voltmeter and ammeter"
+detailed: "Educational circuit showing voltage and current measurement using labeled resistor, cell, voltmeter, ammeter, and switch."

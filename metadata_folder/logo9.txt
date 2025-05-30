@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Visa logo"
+picture_id: test/images/logo6
+footnote: Null
+below_text: Null
+concise: "VISA logo in bold blue lettering."
+detailed: "VISA logo stands for secure, global digital payment solutions, represented in a clean, recognizable typeface."

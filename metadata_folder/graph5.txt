@@ -1,0 +1,8 @@
+section_header: "Probability Distribution"
+above_text: "Normalized score distribution for 50 samples:"
+caption: "Figure 5: Probability Density Histogram (Scores 0-50)"
+picture_id: train/images/graph5
+footnote: "Y-axis: P(x), X-axis: Test scores"
+below_text: "Peak probability (0.025) at score 20. Distribution appears bimodal."
+concise: "Histogram showing score distribution of data."
+detailed: "Histogram illustrates how scores are distributed across different ranges with rectangular bars."

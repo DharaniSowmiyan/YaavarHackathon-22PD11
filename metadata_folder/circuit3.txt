@@ -1,0 +1,8 @@
+section_header: "Basic Circuit Principles"
+above_text: "Minimalist circuit demonstrating electron flow:"
+caption: "Figure 3: Current Flow Diagram"
+picture_id: train\images\circuit3.png
+footnote: "Conventional current direction shown"
+below_text: "Arrow indicates direction of positive charge flow from + terminal."
+concise: "Basic circuit with battery and switch"
+detailed: "A simple closed-loop electrical circuit with a battery, open switch, and a lamp illustrating power control."

@@ -1,0 +1,8 @@
+section_header: "Parallel Lighting Circuit"
+above_text: "Dual-bulb circuit configuration:"
+caption: "Figure 10: Parallel Light Bulb Circuit"
+picture_id: val/images/circuit10
+footnote: "Note: 'Rattany' may be a label"
+below_text: "Two independent paths: Battery → Switch → Bulb (x2)."
+concise: "Light bulb switch circuit diagrams"
+detailed: "Two diagrams show working and non-working circuits using a battery, switch, wires, and light bulb for illustration."

@@ -1,0 +1,9 @@
+section_header: "Power Measurement Symbols"
+above_text: "Key instrumentation symbols shown:"
+caption: "Figure 7: Meter Symbols (A/V/W)"
+picture_id: train\images\circuit7.png
+footnote: "A=Ampere, V=Volt, W=Watt"
+below_text: "Three wattmeters shown for three-phase power measurement."
+concise: "Multimeter circuit with resistors and battery"
+detailed: "A multimeter circuit with voltmeter and ammeter measuring different resistors powered by a battery and switch."
+

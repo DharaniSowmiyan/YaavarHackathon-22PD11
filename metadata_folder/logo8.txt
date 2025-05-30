@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "IBM logo"
+picture_id: train/images/logo8
+footnote: Null
+below_text: Null
+concise: "IBM logo with blue horizontal lines."
+detailed: "IBM’s blue-striped logo symbolizes stability, innovation, and legacy in computing and technology services worldwide."

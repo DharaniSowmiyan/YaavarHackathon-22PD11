@@ -1,0 +1,8 @@
+section_header: "Introductory Electronics"
+above_text: "Basic lighting circuit configuration:"
+caption: "Figure 5: Simple Light Bulb Circuit"
+picture_id: train\images\circuit5.png
+footnote: "Single-pole single-throw switch used"
+below_text: "Current path: Battery (+) → Switch → Bulb → Battery (-)."
+concise: "Simple light bulb circuit with switch"
+detailed: "A basic electrical setup showing battery, wires, a manual switch, and a light bulb as the load."

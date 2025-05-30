@@ -1,0 +1,8 @@
+section_header: "Student Records"
+above_text: "Student performance data including ID, name, class, mark, and gender."
+caption: "Table 1: Student Academic Records"
+picture_id: train/images/table1
+footnote: "Gender data includes some inconsistencies (e.g., 'John Deo' marked as female)."
+below_text: "Marks range from 55 to 85, with male students predominating in higher scores."
+concise: "Student performance by class and gender"
+detailed: "Table showing student names, classes, marks, and gender to analyze academic performance across different levels and genders."

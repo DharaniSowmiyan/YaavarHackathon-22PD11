@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "KFC logo"
+picture_id: test/images/logo6
+footnote: Null
+below_text: Null
+concise: "KFC logo with Colonel Sanders portrait."
+detailed: "KFC’s logo shows founder Colonel Sanders, red stripes, and brand name representing fried chicken fast-food chain."

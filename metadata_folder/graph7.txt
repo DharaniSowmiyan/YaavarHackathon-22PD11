@@ -1,0 +1,8 @@
+section_header: "Education Demographics"
+above_text: "Survey results of participants' highest degree:"
+caption: "Figure 7: Academic Degree Distribution"
+picture_id: train/images/graph7
+footnote: "5-point scale: 1=None → 5=PhD"
+below_text: "Most common degree: Master's (rating 4). 'No degree' shows lowest frequency (1)."
+concise: "Vertical bar graph comparing academic degrees."
+detailed: "Bar chart presents count or frequency comparison among different academic degree levels."

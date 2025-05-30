@@ -1,0 +1,8 @@
+section_header: Null
+above_text: Null
+caption: "Macdonals logo"
+picture_id: train/images/logo6
+footnote: Null
+below_text: Null
+concise: "McDonald’s golden arches forming letter M."
+detailed: "Bright yellow 'M' arches represent McDonald’s fast-food brand globally, symbolizing friendliness, speed, and recognition."
