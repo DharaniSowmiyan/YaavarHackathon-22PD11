@@ -20,9 +20,13 @@ C. Inference Layer
 
 # Features
 BLIP-based image captioning (Salesforce/blip-image-captioning-base)
+
 Custom dataset support with metadata (section headers, captions, etc.)
+
 Training and inference scripts
+
 Caption verifiability checks (semantic similarity, consistency)
+
 Annotated output images with generated captions and confidence scores
 
 # Folder Structure
