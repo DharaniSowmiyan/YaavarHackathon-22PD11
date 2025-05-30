@@ -1,0 +1,7 @@
+opencv-python
+transformers
+tqdm
+nltk
+pillow
+sentence-transformers
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 
