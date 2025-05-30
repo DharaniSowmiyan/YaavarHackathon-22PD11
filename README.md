@@ -33,7 +33,8 @@ Annotated output images with generated captions and confidence scores
 
 # Setup
 1.Clone the repository
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/DharaniSowmiyan/YaavarHackathon-22PD11
+   
    cd your-repo
 
 2.Install dependencies:
@@ -41,6 +42,7 @@ Annotated output images with generated captions and confidence scores
 
 3.Prepare your data:
 Place images in img_folder/
+
 Place corresponding metadata .txt files in metadata_folder/
 
 
