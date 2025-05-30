@@ -32,7 +32,7 @@ Annotated output images with generated captions and confidence scores
 # Folder Structure
 ![image](https://github.com/user-attachments/assets/b865e2c3-3869-45b3-831d-db0317d1f7f0)
 
-# Images
+# Images (circuits,graphs,logos,charts)
 ![Screenshot 2025-05-29 121054](https://github.com/user-attachments/assets/7c0c38ba-1df2-4395-8836-c598172ee26b)
 
 
