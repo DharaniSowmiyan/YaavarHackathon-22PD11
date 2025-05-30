@@ -1,0 +1,498 @@
+{
+  "circuit1.png": {
+    "concise_caption": "concise : \" voltage divider analysis \". detailed : \" figure 1 : dual - stage voltage divider circuit \"",
+    "detailed_caption": "concise : \" voltage divider analysis \". detailed : \" figure 1 : dual - stage voltage divider circuit \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Voltage Divider Analysis\". detailed: \"Figure 1: Dual-Stage Voltage Divider Circuit\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"Calculations: Vout = 9V \u00d7 (R2/(R1+R2))\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"Calculations: Vout = 9V \u00d7 (R2/(R1+R2))\""
+    ]
+  },
+  "circuit10.png": {
+    "concise_caption": "concise : \" parallel lighting circuit \". detailed : \" figure 10 : parallel light bulb circuit \"",
+    "detailed_caption": "concise : \" parallel lighting circuit \". detailed : \" figure 10 : parallel light bulb circuit \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Parallel Lighting Circuit\". detailed: \"Figure 10: Parallel Light Bulb Circuit\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"Note: 'Rattany' may be a label\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"Note: 'Rattany' may be a label\""
+    ]
+  },
+  "circuit2.png": {
+    "concise_caption": "concise : \" circuit components reference \". detailed : \" figure 2 : circuit component symbols \"",
+    "detailed_caption": "concise : \" circuit components reference \". detailed : \" figure 2 : circuit component symbols \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Circuit Components Reference\". detailed: \"Figure 2: Circuit Component Symbols\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"IEC 60617 standard symbols\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"IEC 60617 standard symbols\""
+    ]
+  },
+  "circuit3.png": {
+    "concise_caption": "concise : \" basic circuit principles \". detailed : \" figure 3 : current flow diagram \"",
+    "detailed_caption": "concise : \" basic circuit principles \". detailed : \" figure 3 : current flow diagram \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Basic Circuit Principles\". detailed: \"Figure 3: Current Flow Diagram\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "circuit4.png": {
+    "concise_caption": "concise : \" series circuit experiment \". detailed : \" figure 4 : series circuit with ammeter \"",
+    "detailed_caption": "concise : \" series circuit experiment \". detailed : \" figure 4 : series circuit with ammeter \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Series Circuit Experiment\". detailed: \"Figure 4: Series Circuit with Ammeter\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"Ammeter must be connected in series\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"Ammeter must be connected in series\""
+    ]
+  },
+  "circuit5.png": {
+    "concise_caption": "concise : \" introductory electronics \". detailed : \" figure 5 : simple light bulb circuit \"",
+    "detailed_caption": "concise : \" introductory electronics \". detailed : \" figure 5 : simple light bulb circuit \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Introductory Electronics\". detailed: \"Figure 5: Simple Light Bulb Circuit\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Introductory Electronics\"",
+      "Caption may not reflect footnote information: \"Single-pole single-throw switch used\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Introductory Electronics\"",
+      "Caption may not reflect footnote information: \"Single-pole single-throw switch used\""
+    ]
+  },
+  "circuit6.png": {
+    "concise_caption": "concise : \" circuit measurement setup \". detailed : \" figure 6 : resistor - switch circuit with ammeter \"",
+    "detailed_caption": "concise : \" circuit measurement setup \". detailed : \" figure 6 : resistor - switch circuit with ammeter \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Circuit Measurement Setup\". detailed: \"Figure 6: Resistor-Switch Circuit with Ammeter\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"Note: 'Sharmaine' appears to be a label\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"Note: 'Sharmaine' appears to be a label\""
+    ]
+  },
+  "circuit7.png": {
+    "concise_caption": "concise : \" power measurement symbols \". detailed : \" figure 7 : meter symbols ( a / v / w ) \"",
+    "detailed_caption": "concise : \" power measurement symbols \". detailed : \" figure 7 : meter symbols ( a / v / w ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Power Measurement Symbols\". detailed: \"Figure 7: Meter Symbols (A/V/W)\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"A=Ampere, V=Volt, W=Watt\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"A=Ampere, V=Volt, W=Watt\""
+    ]
+  },
+  "circuit8.png": {
+    "concise_caption": "concise : \" circuit drawing fundamentals \". detailed : \" figure 8 : basic circuit elements \"",
+    "detailed_caption": "concise : \" circuit drawing fundamentals \". detailed : \" figure 8 : basic circuit elements \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Circuit Drawing Fundamentals\". detailed: \"Figure 8: Basic Circuit Elements\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"IEC symbol conventions followed\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"IEC symbol conventions followed\""
+    ]
+  },
+  "circuit9.png": {
+    "concise_caption": "concise : \" counter circuit \". detailed : \" joining of osillatory circuit and counter circuit \"",
+    "detailed_caption": "concise : \" counter circuit \". detailed : \" joining of osillatory circuit and counter circuit \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Counter circuit\". detailed: \"Joining of osillatory circuit and counter circuit\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Counter circuit\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Counter circuit\""
+    ]
+  },
+  "graph1.png": {
+    "concise_caption": "concise : \" bargraphs \". detailed : \" frequency of items demonstrated \"",
+    "detailed_caption": "concise : \" bargraphs \". detailed : \" frequency of items demonstrated \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Bargraphs\". detailed: \"Frequency of items demonstrated\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Bargraphs\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Bargraphs\""
+    ]
+  },
+  "graph10.png": {
+    "concise_caption": "concise : \" atmospheric science \". detailed : \" figure 10 : composition of air \"",
+    "detailed_caption": "concise : \" atmospheric science \". detailed : \" figure 10 : composition of air \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Atmospheric Science\". detailed: \"Figure 10: Composition of Air\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Atmospheric Science\"",
+      "Caption may not reflect footnote information: \"Values approximate: N\u2082=78%, O\u2082=21%, Other=1%\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Atmospheric Science\"",
+      "Caption may not reflect footnote information: \"Values approximate: N\u2082=78%, O\u2082=21%, Other=1%\""
+    ]
+  },
+  "graph2.png": {
+    "concise_caption": "concise : \" line graph \". detailed : \" frequency decreases over time \"",
+    "detailed_caption": "concise : \" line graph \". detailed : \" frequency decreases over time \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Line graph\". detailed: \"Frequency decreases over time\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Line graph\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Line graph\""
+    ]
+  },
+  "graph3.png": {
+    "concise_caption": "concise : \" statistical analysis \". detailed : \" figure 3 : frequency density histogram ( bins 1 - 6 ) \"",
+    "detailed_caption": "concise : \" statistical analysis \". detailed : \" figure 3 : frequency density histogram ( bins 1 - 6 ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Statistical Analysis\". detailed: \"Figure 3: Frequency Density Histogram (Bins 1-6)\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Statistical Analysis\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Statistical Analysis\""
+    ]
+  },
+  "graph4.png": {
+    "concise_caption": "concise : \" piechart graph \". detailed : \" piechart with partitions \"",
+    "detailed_caption": "concise : \" piechart graph \". detailed : \" piechart with partitions \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Piechart graph\". detailed: \"Piechart with partitions\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Piechart graph\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Piechart graph\""
+    ]
+  },
+  "graph5.png": {
+    "concise_caption": "concise : \" probability distribution \". detailed : \" figure 5 : probability density histogram ( scores 0 - 50 ) \"",
+    "detailed_caption": "concise : \" probability distribution \". detailed : \" figure 5 : probability density histogram ( scores 0 - 50 ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Probability Distribution\". detailed: \"Figure 5: Probability Density Histogram (Scores 0-50)\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Probability Distribution\"",
+      "Caption may not reflect footnote information: \"Y-axis: P(x), X-axis: Test scores\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Probability Distribution\"",
+      "Caption may not reflect footnote information: \"Y-axis: P(x), X-axis: Test scores\""
+    ]
+  },
+  "graph6.png": {
+    "concise_caption": "concise : \" correlation analysis \". detailed : \" figure 6 : scatter plot ( height vs. weight ) \"",
+    "detailed_caption": "concise : \" correlation analysis \". detailed : \" figure 6 : scatter plot ( height vs. weight ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Correlation Analysis\". detailed: \"Figure 6: Scatter Plot (Height vs. Weight)\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Correlation Analysis\"",
+      "Caption may not reflect footnote information: \"Theoretical example with 10 data points\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Correlation Analysis\"",
+      "Caption may not reflect footnote information: \"Theoretical example with 10 data points\""
+    ]
+  },
+  "graph7.png": {
+    "concise_caption": "concise : \" education demographics \". detailed : \" figure 7 : academic degree distribution \"",
+    "detailed_caption": "concise : \" education demographics \". detailed : \" figure 7 : academic degree distribution \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Education Demographics\". detailed: \"Figure 7: Academic Degree Distribution\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Education Demographics\"",
+      "Caption may not reflect footnote information: \"5-point scale: 1=None \u2192 5=PhD\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Education Demographics\"",
+      "Caption may not reflect footnote information: \"5-point scale: 1=None \u2192 5=PhD\""
+    ]
+  },
+  "graph8.png": {
+    "concise_caption": "detailed : \" five vertical bars, upward trending red arrow \"",
+    "detailed_caption": "detailed : \" five vertical bars, upward trending red arrow \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"five vertical bars,upward trending red arrow\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "graph9.png": {
+    "concise_caption": "concise : \" entomology study \". detailed : \" figure 9 : insect species distribution \"",
+    "detailed_caption": "concise : \" entomology study \". detailed : \" figure 9 : insect species distribution \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Entomology Study\". detailed: \"Figure 9: Insect Species Distribution\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Entomology Study\"",
+      "Caption may not reflect footnote information: \"Data from summer 2024 field survey\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Entomology Study\"",
+      "Caption may not reflect footnote information: \"Data from summer 2024 field survey\""
+    ]
+  },
+  "logo1.png": {
+    "concise_caption": "detailed : \" instagram logo \"",
+    "detailed_caption": "detailed : \" instagram logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Instagram logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo10.png": {
+    "concise_caption": "detailed : \" kfc logo \"",
+    "detailed_caption": "detailed : \" kfc logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"KFC logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo11.png": {
+    "concise_caption": "concise : \" cocacola \". detailed : \" cocacola logo \"",
+    "detailed_caption": "concise : \" cocacola \". detailed : \" cocacola logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Cocacola\". detailed: \"Cocacola logo\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Cocacola\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Cocacola\""
+    ]
+  },
+  "logo12.png": {
+    "concise_caption": "detailed : \" michelin logo \"",
+    "detailed_caption": "detailed : \" michelin logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Michelin logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo2.png": {
+    "concise_caption": "detailed : \" starbucks logo \"",
+    "detailed_caption": "detailed : \" starbucks logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Starbucks logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo3.png": {
+    "concise_caption": "detailed : \" mastercard logo \"",
+    "detailed_caption": "detailed : \" mastercard logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Mastercard logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo4.png": {
+    "concise_caption": "detailed : \" instagram logo \"",
+    "detailed_caption": "detailed : \" instagram logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Instagram logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo5.png": {
+    "concise_caption": "detailed : \" wikipedia logo \"",
+    "detailed_caption": "detailed : \" wikipedia logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Wikipedia logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo6.png": {
+    "concise_caption": "detailed : \" macdonals logo \"",
+    "detailed_caption": "detailed : \" macdonals logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Macdonals logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo7.png": {
+    "concise_caption": "detailed : \" nike logo \"",
+    "detailed_caption": "detailed : \" nike logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Nike logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo8.png": {
+    "concise_caption": "detailed : \" ibm logo \"",
+    "detailed_caption": "detailed : \" ibm logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"IBM logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "logo9.png": {
+    "concise_caption": "detailed : \" visa logo \"",
+    "detailed_caption": "detailed : \" visa logo \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Visa logo\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "table1.png": {
+    "concise_caption": "concise : \" student records \". detailed : \" table 1 : student academic records \"",
+    "detailed_caption": "concise : \" student records \". detailed : \" table 1 : student academic records \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Student Records\". detailed: \"Table 1: Student Academic Records\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Student Records\"",
+      "Caption may not reflect footnote information: \"Gender data includes some inconsistencies (e.g., 'John Deo' marked as female).\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Student Records\"",
+      "Caption may not reflect footnote information: \"Gender data includes some inconsistencies (e.g., 'John Deo' marked as female).\""
+    ]
+  },
+  "table10.png": {
+    "concise_caption": "concise : \" invoice line items \". detailed : \" table 10 : purchase order with discounts applied \"",
+    "detailed_caption": "concise : \" invoice line items \". detailed : \" table 10 : purchase order with discounts applied \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Invoice Line Items\". detailed: \"Table 10: Purchase Order with Discounts Applied\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "table2.png": {
+    "concise_caption": "concise : \" sales performance \". detailed : \" table 2 : sales figures by year and salesperson \"",
+    "detailed_caption": "concise : \" sales performance \". detailed : \" table 2 : sales figures by year and salesperson \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Sales Performance\". detailed: \"Table 2: Sales Figures by Year and Salesperson\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Sales Performance\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Sales Performance\""
+    ]
+  },
+  "table3.png": {
+    "concise_caption": "concise : \" university enrollment \". detailed : \" table 3 : enrollment by campus and term ( 2019 \u2013 2020 ) \"",
+    "detailed_caption": "concise : \" university enrollment \". detailed : \" table 3 : enrollment by campus and term ( 2019 \u2013 2020 ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"University Enrollment\". detailed: \"Table 3: Enrollment by Campus and Term (2019\u20132020)\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"University Enrollment\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"University Enrollment\""
+    ]
+  },
+  "table4.png": {
+    "concise_caption": "concise : \" family stock holdings \". detailed : \" table 4 : stock holdings by income, age, and year ( percent and median values ) \"",
+    "detailed_caption": "concise : \" family stock holdings \". detailed : \" table 4 : stock holdings by income, age, and year ( percent and median values ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Family Stock Holdings\". detailed: \"Table 4: Stock Holdings by Income, Age, and Year (Percent and Median Values)\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "table5.png": {
+    "concise_caption": "detailed : \" histogram of score probabilities \"",
+    "detailed_caption": "detailed : \" histogram of score probabilities \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "detailed: \"Histogram of Score Probabilities\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "table6.png": {
+    "concise_caption": "concise : \" urban population analysis \". detailed : \" table 6 : city population as proportion of national urban population \"",
+    "detailed_caption": "concise : \" urban population analysis \". detailed : \" table 6 : city population as proportion of national urban population \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Urban Population Analysis\". detailed: \"Table 6: City Population as Proportion of National Urban Population\"",
+    "concise_inconsistencies": [],
+    "detailed_inconsistencies": []
+  },
+  "table7.png": {
+    "concise_caption": "concise : \" accessibility study \". detailed : \" table 7 : voting accessibility by disability type \"",
+    "detailed_caption": "concise : \" accessibility study \". detailed : \" table 7 : voting accessibility by disability type \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Accessibility Study\". detailed: \"Table 7: Voting Accessibility by Disability Type\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Accessibility Study\"",
+      "Caption may not reflect footnote information: \"Blind participants had the lowest completion rate (1/5) and accuracy (34.5%).\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Accessibility Study\"",
+      "Caption may not reflect footnote information: \"Blind participants had the lowest completion rate (1/5) and accuracy (34.5%).\""
+    ]
+  },
+  "table8.png": {
+    "concise_caption": "concise : \" fictional character database \". detailed : \" table 8 : character profiles \"",
+    "detailed_caption": "concise : \" fictional character database \". detailed : \" table 8 : character profiles \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Fictional Character Database\". detailed: \"Table 8: Character Profiles\"",
+    "concise_inconsistencies": [
+      "Caption may not reflect footnote information: \"Includes cross-genre references (e.g., Spiderman, Robin Hood).\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not reflect footnote information: \"Includes cross-genre references (e.g., Spiderman, Robin Hood).\""
+    ]
+  },
+  "table9.png": {
+    "concise_caption": "concise : \" zoning regulations \". detailed : \" table 9 : commercial zone specifications ( nb = neighborhood business, cb = community business ) \"",
+    "detailed_caption": "concise : \" zoning regulations \". detailed : \" table 9 : commercial zone specifications ( nb = neighborhood business, cb = community business ) \"",
+    "concise_confidence": 0.0,
+    "detailed_confidence": 0.0,
+    "context": "concise: \"Zoning Regulations\". detailed: \"Table 9: Commercial Zone Specifications (NB = Neighborhood Business, CB = Community Business)\"",
+    "concise_inconsistencies": [
+      "Caption may not align with section header: \"Zoning Regulations\"",
+      "Caption may not reflect footnote information: \"(1) Density units per acre; (7) Base height with potential exceptions.\""
+    ],
+    "detailed_inconsistencies": [
+      "Caption may not align with section header: \"Zoning Regulations\"",
+      "Caption may not reflect footnote information: \"(1) Density units per acre; (7) Base height with potential exceptions.\""
+    ]
+  }
+}
