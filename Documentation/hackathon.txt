@@ -1,3 +1,4 @@
+kindly view the documentation(Yavar Image Captioning Approach.pdf) fully
 Resources:
 
 
