@@ -1,0 +1,9 @@
+section_header: "Voltage Divider Analysis"
+above_text: "The circuit diagram shows a two-stage voltage divider:"
+caption: "Figure 1: Dual-Stage Voltage Divider Circuit"
+picture_id: train\images\circuit1.png
+footnote: "Calculations: Vout = 9V × (R2/(R1+R2))"
+below_text: "Stage (a) calculates current (x), Stage (b) shows temperature relationships. R1=60Ω, R2=120Ω."
+concise: "Parallel circuit with two resistors"
+detailed: "A 9V battery powers a parallel circuit with two resistors: 6Ω and 12Ω, splitting current into two paths."
+
