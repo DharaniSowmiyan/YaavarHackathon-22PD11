@@ -29,6 +29,10 @@ Caption verifiability checks (semantic similarity, consistency)
 
 Annotated output images with generated captions and confidence scores
 
+# Salesforce/blip-image-captioning-base model without fine-tuning
+![Screenshot 2025-05-30 215938](https://github.com/user-attachments/assets/85773ac3-d267-4b9d-a769-c930b0369f40)
+
+ 
 # Folder Structure
 ![image](https://github.com/user-attachments/assets/b865e2c3-3869-45b3-831d-db0317d1f7f0)
 
