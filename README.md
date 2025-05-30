@@ -48,7 +48,7 @@ Annotated output images with generated captions and confidence scores
 # Folder Structure
 ![image](https://github.com/user-attachments/assets/b865e2c3-3869-45b3-831d-db0317d1f7f0)
 
-# Images (circuits,graphs,logos,charts)
+# Images for fine-tuning(circuits,graphs,logos,charts)
 ![Screenshot 2025-05-29 121054](https://github.com/user-attachments/assets/7c0c38ba-1df2-4395-8836-c598172ee26b)
 
 
@@ -63,7 +63,8 @@ Annotated output images with generated captions and confidence scores
 ![Screenshot 2025-05-30 131655](https://github.com/user-attachments/assets/33c7a239-be73-4885-a66d-1c386bbc980c)
 ![Screenshot 2025-05-30 083942](https://github.com/user-attachments/assets/7d684264-01bb-4e09-9e76-e01524d4eca3)
 
-
+# low confidence outputs are underlined
+![Screenshot 2025-05-30 144656](https://github.com/user-attachments/assets/8f2a1556-eb3b-49e7-96fe-6d83e832e4dc)
 
 # Setup
 1.Clone the repository
