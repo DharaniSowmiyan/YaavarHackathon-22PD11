@@ -1,1 +1,40 @@
+Resources:
+
+
+Creating an image dataset:
+
+https://huggingface.co/docs/datasets/image_dataset
+
+
+Fine-tune BLIP on an image captioning dataset:
+
+https://colab.research.google.com/drive/1lbqiSiA0sDF7JDWPeS0tccrM85LloVha?usp=sharing#scrollTo=AFGnjCgDoLIJ
+
+Various other models explored:
+
+1.Florence-2
+https://blog.roboflow.com/fine-tune-florence-2-object-detection/
+
+
+
+Why it did not work:
+Florence-2 requires flash-attn, which needs:
+GPUs like A100, L4, or H100.
+
+
+CUDA 11.8+ and PyTorch 2.1+.
+
+2.Salesforce/blip2-opt-2.7b
+https://huggingface.co/Salesforce/blip2-opt-2.7b
+3.Salesforce/blip2-flan-t5-xl
+https://huggingface.co/Salesforce/blip2-flan-t5-x
+(2,3)Why it did not work: while running the model-out of memory since my gpu VRAM is 4GB
+
+4.huggingface.co/yifeihu/TF-ID-base
+https://huggingface.co/yifeihu/TF-ID-base
+Why it did not work: it detects tables/figures image captioning not supported.
+
+Future work:
+
+Making them(image+context and caption) better Relevance: How well the caption aligns with both the image and the provided context.
 
