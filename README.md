@@ -28,8 +28,20 @@ Annotated output images with generated captions and confidence scores
 # Folder Structure
 ![image](https://github.com/user-attachments/assets/b865e2c3-3869-45b3-831d-db0317d1f7f0)
 
+# Images
+![Screenshot 2025-05-29 121054](https://github.com/user-attachments/assets/7c0c38ba-1df2-4395-8836-c598172ee26b)
+
+
 # Metadata File Format
 ![image](https://github.com/user-attachments/assets/14fb7c32-0184-4ea6-a93a-6ac183864337)
+
+# Training
+![Screenshot 2025-05-30 101203](https://github.com/user-attachments/assets/0f965372-5c6e-4ed3-bb29-afa94c09cfe7)
+
+
+# output
+![Screenshot 2025-05-30 131655](https://github.com/user-attachments/assets/33c7a239-be73-4885-a66d-1c386bbc980c)
+
 
 # Setup
 1.Clone the repository
